@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "8a07799136bdf88fce4ba2e04d7f82b47a74d566"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "ImageResizer/1.0.0": {
+        "dependencies": {
+          "PhotoSauce.MagicScaler": "0.9.1"
+        },
+        "runtime": {
+          "ImageResizer.dll": {}
+        }
+      },
+      "PhotoSauce.MagicScaler/0.9.1": {
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "4.5.1"
+        },
+        "runtime": {
+          "lib/netcoreapp2.1/PhotoSauce.MagicScaler.dll": {
+            "assemblyVersion": "0.9.1.0",
+            "fileVersion": "0.9.1.0"
+          }
+        }
+      },
+      "System.Runtime.CompilerServices.Unsafe/4.5.1": {
+        "runtime": {
+          "lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.dll": {
+            "assemblyVersion": "4.0.4.0",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ImageResizer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PhotoSauce.MagicScaler/0.9.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Lv8HCkK3aqroFaic/d4dpJWeQgrYX3c8BMJKp7kgH0HrHPzTgsNw6nXSYKbhEVgQ83nNOO7oGEo60AxsUcJDWQ==",
+      "path": "photosauce.magicscaler/0.9.1",
+      "hashPath": "photosauce.magicscaler.0.9.1.nupkg.sha512"
+    },
+    "System.Runtime.CompilerServices.Unsafe/4.5.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qUJMNWhbm9oZ3XaMFiEMiYmRPszbnXIkRIi7+4b2Md2xZ6JUOepf0/kY3S85qistRohl9OdMe4PsO+RdG2kTIQ==",
+      "path": "system.runtime.compilerservices.unsafe/4.5.1",
+      "hashPath": "system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512"
+    }
+  }
+}

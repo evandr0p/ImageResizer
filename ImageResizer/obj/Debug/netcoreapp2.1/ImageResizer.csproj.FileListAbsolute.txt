@@ -1,0 +1,11 @@
+D:\Scr\POCs\ImageResizer\ImageResizer\bin\Debug\netcoreapp2.1\ImageResizer.deps.json
+D:\Scr\POCs\ImageResizer\ImageResizer\bin\Debug\netcoreapp2.1\ImageResizer.runtimeconfig.json
+D:\Scr\POCs\ImageResizer\ImageResizer\bin\Debug\netcoreapp2.1\ImageResizer.runtimeconfig.dev.json
+D:\Scr\POCs\ImageResizer\ImageResizer\bin\Debug\netcoreapp2.1\ImageResizer.dll
+D:\Scr\POCs\ImageResizer\ImageResizer\obj\Debug\netcoreapp2.1\ImageResizer.csprojAssemblyReference.cache
+D:\Scr\POCs\ImageResizer\ImageResizer\obj\Debug\netcoreapp2.1\ImageResizer.csproj.CoreCompileInputs.cache
+D:\Scr\POCs\ImageResizer\ImageResizer\obj\Debug\netcoreapp2.1\ImageResizer.AssemblyInfoInputs.cache
+D:\Scr\POCs\ImageResizer\ImageResizer\obj\Debug\netcoreapp2.1\ImageResizer.AssemblyInfo.cs
+D:\Scr\POCs\ImageResizer\ImageResizer\bin\Debug\netcoreapp2.1\ImageResizer.pdb
+D:\Scr\POCs\ImageResizer\ImageResizer\obj\Debug\netcoreapp2.1\ImageResizer.dll
+D:\Scr\POCs\ImageResizer\ImageResizer\obj\Debug\netcoreapp2.1\ImageResizer.pdb
